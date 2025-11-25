@@ -1,4 +1,4 @@
-#X360Store
+# X360Store
 
 Automatically generates an `all_configs.ini` file for your Xbox 360 GOD-format games library, including metadata and local/HTTP paths for easy server access and management.
 
